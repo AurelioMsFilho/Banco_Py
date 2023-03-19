@@ -1,3 +1,6 @@
+
+
+
 menu = '''
 [1] Depositar
 [2] Sacar
@@ -7,7 +10,7 @@ menu = '''
 
 saldo = 0
 limite = 400
-extrato =''
+extrato = ''
 numero_saques = 0
 LIMITE_SAQUES = 4
 while True:
